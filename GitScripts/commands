@@ -1,0 +1,4 @@
+git pull
+git reset --hard
+git checkout master
+git log --pretty=%h -n 1
